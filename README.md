@@ -1,4 +1,4 @@
-# Comparing faces in images using AWS Rekognition - Node.js
+# Compare faces in images using Amazon Rekognition - Node.js
 
 1. Copy `.env.example` to `.env`
 2. Update AWS Credentials
